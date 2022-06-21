@@ -1,4 +1,4 @@
-# Uso de un bot de Telegram en un canal
+# Uso de un bot de Telegram en un canal con Python
 Hay que realizar los siguientes pasos:
 
 1 - Buscar en telegram @BotFather y colocar Start <br>
